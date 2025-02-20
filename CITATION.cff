@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Katy"
+  given-names: "Warr"
+  orcid: "https://orcid.org/0009-0006-2444-9701"
+- family-names: "Jonathon"
+  given-names: "Hare"
+  orcid: "https://orcid.org/0000-0003-2921-4283"
+- family-names: "David"
+  given-names: "Thomas"
+  orcid: "https://orcid.org/0000-0002-9671-0917"
+title: "Improving Recall in Sparse Associative Memories That Use Neurogenesis"
+version: 1.0
+doi: 10.1162/neco_a_01732
+date-released: 2025-03-01
+url: "https://doi.org/10.1162/neco_a_01732"
