@@ -8,9 +8,9 @@
 
 # Improving Recall in Sparse Associative Memories that use Neurogenesis
 
-Katy Warr ([github](https://github.com/katywarr), [email](email:k.s.warr@soton.ac.uk)), 
-Jonathon Hare ([github](https://github.com/jonhare), [email](email:j.s.hare@soton.ac.uk))
-and David Thomas ([email](email:d.b.thomas@soton.ac.uk)) 
+Katy Warr ([github](https://github.com/katywarr), [email](mailto:k.s.warr@soton.ac.uk)), 
+Jonathon Hare ([github](https://github.com/jonhare), [email](mailto:j.s.hare@soton.ac.uk))
+and David Thomas ([email](mailto:d.b.thomas@soton.ac.uk)) 
 
 _Electronics and Computer Science, University of Southampton_
 
