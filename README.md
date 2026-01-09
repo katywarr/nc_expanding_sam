@@ -3,7 +3,7 @@
   Access this paper: 
   <a href="https://doi.org/10.1162/neco_a_01732">Neural Computation</a>
     |
-  <a href="">University of Southampton ePrints (link to be added)</a>
+  <a href="https://eprints.soton.ac.uk/499022/">University of Southampton ePrints</a>
 </p>
 
 # Improving Recall in Sparse Associative Memories that use Neurogenesis
@@ -17,10 +17,12 @@ _Electronics and Computer Science, University of Southampton_
 
 ## About
 
-This repository contains the code for our paper 'Improving Recall Accuracy in Sparse Associative Memories that 
+This repository contains the code for our paper 'Improving Recall in Sparse Associative Memories that 
 use Neurogenesis'. The paper is published in 
 <a href="https://doi.org/10.1162/neco_a_01732">Neural Computation (Volume 37, Issue 3)</a> and 
-also available through the University of Southampton ePrints page (link to be added in March 2025).
+the submission manuscript is 
+also available from
+<a href="https://eprints.soton.ac.uk/499022/">University of Southampton ePrints</a>.
 
 The code demonstrates recall optimisations applied to a subtype of Sparse Associative Memory (SAM) that expands with
 memory capacity. This idea is inspired by adult neurogenesis (the creation of new neurons) in the brain; 
